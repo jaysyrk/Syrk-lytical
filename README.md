@@ -45,7 +45,7 @@ date,order_id,customer,product,category,amount,status,cost
 | Column     | Required | Description                           | Accepted formats                     |
 |------------|----------|---------------------------------------|--------------------------------------|
 | `date`     | Yes      | Transaction or order date             | YYYY-MM-DD, MM/DD/YYYY, DD/MM/YYYY   |
-| `amount`   | Yes      | Revenue or payment amount             | 79.99, $79.99, ï¿½79.99                |
+| `amount`   | Yes      | Revenue or payment amount             | 79.99, $79.99, EUR79.99                |
 | `order_id` | No       | Unique order or transaction reference | Any string                           |
 | `customer` | No       | Customer name or identifier           | Any string                           |
 | `product`  | No       | Product or service name               | Any string                           |
