@@ -1,6 +1,6 @@
 # Syrk-lytical
 
-Business analytics for any company. Import a CSV export from your existing system and instantly see revenue trends, sales breakdowns, top products, and customer data — all in your browser with no server, no account, and no data leaving your machine.
+Business analytics for any company. Import a CSV export from your existing system and instantly see revenue trends, sales breakdowns, top products, and customer data ï¿½ all in your browser with no server, no account, and no data leaving your machine.
 
 ---
 
@@ -45,7 +45,7 @@ date,order_id,customer,product,category,amount,status,cost
 | Column     | Required | Description                           | Accepted formats                     |
 |------------|----------|---------------------------------------|--------------------------------------|
 | `date`     | Yes      | Transaction or order date             | YYYY-MM-DD, MM/DD/YYYY, DD/MM/YYYY   |
-| `amount`   | Yes      | Revenue or payment amount             | 79.99, $79.99, £79.99                |
+| `amount`   | Yes      | Revenue or payment amount             | 79.99, $79.99, ï¿½79.99                |
 | `order_id` | No       | Unique order or transaction reference | Any string                           |
 | `customer` | No       | Customer name or identifier           | Any string                           |
 | `product`  | No       | Product or service name               | Any string                           |
@@ -53,14 +53,14 @@ date,order_id,customer,product,category,amount,status,cost
 | `status`   | No       | Order status                          | completed, shipped, processing, etc  |
 | `cost`     | No       | Cost of goods / expense amount        | Same as amount                       |
 
-Column names do not have to match exactly — the importer auto-detects common variations (e.g. `Total`, `Sale Amount`, `Invoice Date`, `Transaction Date`). You can manually remap any column during the import step.
+Column names do not have to match exactly ï¿½ the importer auto-detects common variations (e.g. `Total`, `Sale Amount`, `Invoice Date`, `Transaction Date`). You can manually remap any column during the import step.
 
 ---
 
 ## Running Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Syrk-lytical.git
+git clone https://github.com/jaysyrk/Syrk-lytical.git
 cd Syrk-lytical
 npm install
 npm run dev
