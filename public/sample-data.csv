@@ -1,0 +1,378 @@
+date,order_id,customer,product,category,amount,status,cost
+2025-05-02,ORD-0003,Alice Smith,Coffee Blend,Food & Drink,24.37,completed,7
+2025-05-02,ORD-0015,Rachel Walker,Smart Watch,Electronics,232.45,processing,80
+2025-05-02,ORD-0018,Carol White,Coffee Blend,Food & Drink,26,completed,7
+2025-05-03,ORD-0010,Olivia Harris,Yoga Pants,Clothing,52.33,completed,18
+2025-05-05,ORD-0011,Carol White,Phone Case,Electronics,19.08,completed,5
+2025-05-09,ORD-0004,Nathan Jackson,Protein Powder,Food & Drink,48.46,completed,15
+2025-05-10,ORD-0016,Henry Taylor,Coffee Blend,Food & Drink,26.05,completed,7
+2025-05-11,ORD-0008,Eve Davis,Desk Lamp,Home & Garden,35.84,shipped,10
+2025-05-13,ORD-0017,Quinn Lewis,Water Bottle,Home & Garden,29.59,completed,8
+2025-05-16,ORD-0013,Karen Thompson,Water Bottle,Home & Garden,29.85,cancelled,8
+2025-05-19,ORD-0012,Peter Clark,Water Bottle,Home & Garden,31.36,completed,8
+2025-05-22,ORD-0001,Peter Clark,Water Bottle,Home & Garden,29.22,shipped,8
+2025-05-22,ORD-0007,Tara Young,Yoga Pants,Clothing,56.7,completed,18
+2025-05-23,ORD-0006,Karen Thompson,Phone Case,Electronics,20.61,cancelled,5
+2025-05-26,ORD-0009,Grace Wilson,Smart Watch,Electronics,234.52,shipped,80
+2025-05-29,ORD-0005,Peter Clark,Smart Watch,Electronics,230.66,shipped,80
+2025-05-29,ORD-0014,Alice Smith,Water Bottle,Home & Garden,30.82,shipped,8
+2025-05-31,ORD-0002,Dave Brown,Yoga Mat,Home & Garden,41.91,completed,12
+2025-06-02,ORD-0037,Quinn Lewis,Desk Lamp,Home & Garden,34.85,completed,10
+2025-06-04,ORD-0022,Maria Garcia,Yoga Pants,Clothing,56.32,completed,18
+2025-06-05,ORD-0026,Leo Martinez,Water Bottle,Home & Garden,29.15,completed,8
+2025-06-07,ORD-0020,Alice Smith,Phone Case,Electronics,19.6,completed,5
+2025-06-07,ORD-0025,Quinn Lewis,Desk Lamp,Home & Garden,34.68,completed,10
+2025-06-07,ORD-0029,Quinn Lewis,Phone Case,Electronics,19.22,completed,5
+2025-06-07,ORD-0031,Dave Brown,Water Bottle,Home & Garden,28.6,completed,8
+2025-06-15,ORD-0032,Rachel Walker,Yoga Mat,Home & Garden,40.44,completed,12
+2025-06-15,ORD-0034,Carol White,Smart Watch,Electronics,244.75,processing,80
+2025-06-16,ORD-0030,Peter Clark,Protein Powder,Food & Drink,52.39,completed,15
+2025-06-20,ORD-0023,Henry Taylor,Coffee Blend,Food & Drink,25.31,completed,7
+2025-06-20,ORD-0024,Jack Anderson,Coffee Blend,Food & Drink,24.94,completed,7
+2025-06-21,ORD-0033,Maria Garcia,Yoga Pants,Clothing,53.27,shipped,18
+2025-06-21,ORD-0036,Frank Miller,Running Shoes,Clothing,93.06,completed,30
+2025-06-25,ORD-0028,Dave Brown,Phone Case,Electronics,20.4,shipped,5
+2025-06-26,ORD-0027,Isabel Moore,Smart Watch,Electronics,239.94,processing,80
+2025-06-26,ORD-0035,Maria Garcia,Wireless Earbuds,Electronics,77.36,completed,25
+2025-06-27,ORD-0021,Alice Smith,Wireless Earbuds,Electronics,79.82,completed,25
+2025-06-29,ORD-0038,Tara Young,Laptop Stand,Electronics,50.38,processing,15
+2025-06-30,ORD-0019,Olivia Harris,Water Bottle,Home & Garden,30.35,completed,8
+2025-07-01,ORD-0051,Maria Garcia,Water Bottle,Home & Garden,28.92,cancelled,8
+2025-07-02,ORD-0042,Sam Robinson,Running Shoes,Clothing,88.96,completed,30
+2025-07-02,ORD-0054,Tara Young,Yoga Mat,Home & Garden,41.71,completed,12
+2025-07-02,ORD-0058,Eve Davis,Desk Lamp,Home & Garden,33.34,completed,10
+2025-07-09,ORD-0045,Nathan Jackson,Laptop Stand,Electronics,51.15,completed,15
+2025-07-10,ORD-0057,Grace Wilson,Running Shoes,Clothing,90.38,shipped,30
+2025-07-11,ORD-0059,Olivia Harris,Yoga Mat,Home & Garden,40.85,completed,12
+2025-07-14,ORD-0041,Quinn Lewis,Protein Powder,Food & Drink,51.14,completed,15
+2025-07-14,ORD-0050,Jack Anderson,Protein Powder,Food & Drink,48.7,completed,15
+2025-07-14,ORD-0053,Quinn Lewis,Protein Powder,Food & Drink,52.37,processing,15
+2025-07-16,ORD-0056,Jack Anderson,Coffee Blend,Food & Drink,25.33,completed,7
+2025-07-17,ORD-0052,Alice Smith,Smart Watch,Electronics,247.27,completed,80
+2025-07-18,ORD-0046,Dave Brown,Water Bottle,Home & Garden,28.57,shipped,8
+2025-07-19,ORD-0060,Frank Miller,Coffee Blend,Food & Drink,25.54,completed,7
+2025-07-20,ORD-0039,Sam Robinson,Laptop Stand,Electronics,51.48,cancelled,15
+2025-07-21,ORD-0043,Maria Garcia,Phone Case,Electronics,19.43,completed,5
+2025-07-21,ORD-0049,Eve Davis,Wireless Earbuds,Electronics,83.25,completed,25
+2025-07-23,ORD-0055,Isabel Moore,Desk Lamp,Home & Garden,35.6,completed,10
+2025-07-25,ORD-0048,Dave Brown,Hoodie,Clothing,42.79,shipped,14
+2025-07-27,ORD-0040,Grace Wilson,Water Bottle,Home & Garden,29.68,completed,8
+2025-07-27,ORD-0047,Isabel Moore,Desk Lamp,Home & Garden,33.87,completed,10
+2025-07-31,ORD-0044,Leo Martinez,Laptop Stand,Electronics,52.26,completed,15
+2025-08-02,ORD-0074,Jack Anderson,Yoga Pants,Clothing,53.63,completed,18
+2025-08-03,ORD-0083,Leo Martinez,Desk Lamp,Home & Garden,35.42,shipped,10
+2025-08-04,ORD-0075,Jack Anderson,Yoga Pants,Clothing,53.8,shipped,18
+2025-08-05,ORD-0080,Alice Smith,Desk Lamp,Home & Garden,35.01,completed,10
+2025-08-06,ORD-0061,Karen Thompson,Smart Watch,Electronics,235.07,shipped,80
+2025-08-06,ORD-0084,Peter Clark,Wireless Earbuds,Electronics,79.14,shipped,25
+2025-08-09,ORD-0072,Alice Smith,Water Bottle,Home & Garden,30.98,shipped,8
+2025-08-11,ORD-0066,Quinn Lewis,Running Shoes,Clothing,88.32,processing,30
+2025-08-11,ORD-0070,Bob Jones,Protein Powder,Food & Drink,49.73,completed,15
+2025-08-11,ORD-0085,Frank Miller,Protein Powder,Food & Drink,50.04,completed,15
+2025-08-13,ORD-0071,Olivia Harris,Running Shoes,Clothing,88.98,completed,30
+2025-08-14,ORD-0073,Sam Robinson,Yoga Mat,Home & Garden,40.32,completed,12
+2025-08-17,ORD-0076,Eve Davis,Wireless Earbuds,Electronics,82.67,shipped,25
+2025-08-23,ORD-0063,Leo Martinez,Yoga Mat,Home & Garden,39.12,processing,12
+2025-08-24,ORD-0069,Tara Young,Hoodie,Clothing,45.88,completed,14
+2025-08-26,ORD-0062,Sam Robinson,Water Bottle,Home & Garden,31.38,completed,8
+2025-08-26,ORD-0064,Karen Thompson,Desk Lamp,Home & Garden,35.1,completed,10
+2025-08-26,ORD-0077,Alice Smith,Yoga Mat,Home & Garden,40.93,shipped,12
+2025-08-27,ORD-0067,Bob Jones,Running Shoes,Clothing,86.74,completed,30
+2025-08-29,ORD-0079,Alice Smith,Yoga Mat,Home & Garden,40.37,completed,12
+2025-08-30,ORD-0065,Alice Smith,Protein Powder,Food & Drink,47.57,shipped,15
+2025-08-30,ORD-0068,Grace Wilson,Wireless Earbuds,Electronics,77.55,completed,25
+2025-08-30,ORD-0082,Isabel Moore,Water Bottle,Home & Garden,29.73,processing,8
+2025-08-31,ORD-0078,Henry Taylor,Hoodie,Clothing,46.5,completed,14
+2025-08-31,ORD-0081,Dave Brown,Smart Watch,Electronics,247.21,cancelled,80
+2025-09-02,ORD-0091,Leo Martinez,Running Shoes,Clothing,92.86,shipped,30
+2025-09-02,ORD-0092,Jack Anderson,Coffee Blend,Food & Drink,24.66,completed,7
+2025-09-02,ORD-0099,Olivia Harris,Smart Watch,Electronics,245.65,completed,80
+2025-09-02,ORD-0106,Carol White,Running Shoes,Clothing,94.2,cancelled,30
+2025-09-03,ORD-0090,Sam Robinson,Running Shoes,Clothing,91.24,completed,30
+2025-09-03,ORD-0100,Henry Taylor,Yoga Pants,Clothing,57.18,completed,18
+2025-09-05,ORD-0111,Tara Young,Running Shoes,Clothing,93.45,completed,30
+2025-09-06,ORD-0089,Frank Miller,Wireless Earbuds,Electronics,81.26,completed,25
+2025-09-12,ORD-0093,Frank Miller,Running Shoes,Clothing,87.38,shipped,30
+2025-09-12,ORD-0098,Maria Garcia,Water Bottle,Home & Garden,30.96,shipped,8
+2025-09-12,ORD-0109,Karen Thompson,Protein Powder,Food & Drink,48.46,completed,15
+2025-09-12,ORD-0112,Carol White,Yoga Pants,Clothing,57.54,processing,18
+2025-09-15,ORD-0104,Grace Wilson,Protein Powder,Food & Drink,50.75,cancelled,15
+2025-09-16,ORD-0097,Grace Wilson,Wireless Earbuds,Electronics,76.18,shipped,25
+2025-09-17,ORD-0105,Olivia Harris,Protein Powder,Food & Drink,48.69,completed,15
+2025-09-18,ORD-0087,Rachel Walker,Protein Powder,Food & Drink,50.66,completed,15
+2025-09-18,ORD-0095,Bob Jones,Desk Lamp,Home & Garden,33.28,completed,10
+2025-09-19,ORD-0096,Peter Clark,Smart Watch,Electronics,238.3,completed,80
+2025-09-20,ORD-0102,Peter Clark,Phone Case,Electronics,20.51,completed,5
+2025-09-20,ORD-0108,Alice Smith,Yoga Mat,Home & Garden,40.76,shipped,12
+2025-09-21,ORD-0101,Eve Davis,Yoga Mat,Home & Garden,40.89,completed,12
+2025-09-21,ORD-0103,Grace Wilson,Smart Watch,Electronics,238.72,completed,80
+2025-09-23,ORD-0107,Alice Smith,Running Shoes,Clothing,90.35,cancelled,30
+2025-09-25,ORD-0110,Henry Taylor,Protein Powder,Food & Drink,50.42,completed,15
+2025-09-26,ORD-0086,Rachel Walker,Smart Watch,Electronics,230.55,cancelled,80
+2025-09-28,ORD-0088,Dave Brown,Desk Lamp,Home & Garden,35.92,completed,10
+2025-09-30,ORD-0094,Grace Wilson,Coffee Blend,Food & Drink,25.89,completed,7
+2025-10-01,ORD-0129,Carol White,Yoga Mat,Home & Garden,39.76,completed,12
+2025-10-03,ORD-0130,Isabel Moore,Running Shoes,Clothing,87.55,shipped,30
+2025-10-05,ORD-0115,Carol White,Smart Watch,Electronics,241.4,completed,80
+2025-10-06,ORD-0132,Isabel Moore,Protein Powder,Food & Drink,50.66,shipped,15
+2025-10-07,ORD-0114,Alice Smith,Laptop Stand,Electronics,49.82,completed,15
+2025-10-07,ORD-0118,Jack Anderson,Hoodie,Clothing,46.24,completed,14
+2025-10-07,ORD-0140,Grace Wilson,Yoga Mat,Home & Garden,40.62,completed,12
+2025-10-08,ORD-0124,Peter Clark,Laptop Stand,Electronics,49.02,cancelled,15
+2025-10-11,ORD-0113,Carol White,Yoga Pants,Clothing,57.36,completed,18
+2025-10-11,ORD-0127,Maria Garcia,Desk Lamp,Home & Garden,35.75,completed,10
+2025-10-11,ORD-0128,Alice Smith,Smart Watch,Electronics,234.37,shipped,80
+2025-10-11,ORD-0135,Frank Miller,Water Bottle,Home & Garden,29.11,completed,8
+2025-10-11,ORD-0138,Maria Garcia,Yoga Pants,Clothing,56.16,shipped,18
+2025-10-15,ORD-0119,Alice Smith,Laptop Stand,Electronics,51.62,completed,15
+2025-10-16,ORD-0116,Karen Thompson,Hoodie,Clothing,46.21,completed,14
+2025-10-17,ORD-0120,Alice Smith,Hoodie,Clothing,44.46,completed,14
+2025-10-18,ORD-0137,Maria Garcia,Smart Watch,Electronics,245.87,completed,80
+2025-10-20,ORD-0121,Peter Clark,Phone Case,Electronics,20.99,shipped,5
+2025-10-20,ORD-0136,Frank Miller,Hoodie,Clothing,47.1,completed,14
+2025-10-23,ORD-0123,Karen Thompson,Phone Case,Electronics,20.09,completed,5
+2025-10-23,ORD-0134,Henry Taylor,Water Bottle,Home & Garden,30.89,processing,8
+2025-10-25,ORD-0133,Olivia Harris,Laptop Stand,Electronics,48.09,processing,15
+2025-10-27,ORD-0141,Sam Robinson,Hoodie,Clothing,45.83,completed,14
+2025-10-28,ORD-0122,Isabel Moore,Smart Watch,Electronics,231.5,completed,80
+2025-10-28,ORD-0126,Peter Clark,Yoga Pants,Clothing,54.48,completed,18
+2025-10-29,ORD-0125,Karen Thompson,Wireless Earbuds,Electronics,77.84,shipped,25
+2025-10-30,ORD-0131,Tara Young,Yoga Mat,Home & Garden,38.98,completed,12
+2025-10-30,ORD-0139,Bob Jones,Laptop Stand,Electronics,47.8,completed,15
+2025-10-31,ORD-0117,Isabel Moore,Wireless Earbuds,Electronics,80.11,completed,25
+2025-11-04,ORD-0165,Grace Wilson,Yoga Pants,Clothing,53.89,completed,18
+2025-11-04,ORD-0169,Peter Clark,Water Bottle,Home & Garden,29.11,completed,8
+2025-11-05,ORD-0168,Dave Brown,Phone Case,Electronics,19.33,shipped,5
+2025-11-05,ORD-0170,Eve Davis,Protein Powder,Food & Drink,50.87,completed,15
+2025-11-08,ORD-0155,Peter Clark,Water Bottle,Home & Garden,28.57,completed,8
+2025-11-10,ORD-0143,Alice Smith,Yoga Mat,Home & Garden,41.74,completed,12
+2025-11-13,ORD-0157,Tara Young,Running Shoes,Clothing,92.24,completed,30
+2025-11-14,ORD-0156,Quinn Lewis,Hoodie,Clothing,43.35,cancelled,14
+2025-11-14,ORD-0166,Leo Martinez,Protein Powder,Food & Drink,48.28,processing,15
+2025-11-15,ORD-0149,Quinn Lewis,Coffee Blend,Food & Drink,25.81,shipped,7
+2025-11-16,ORD-0151,Quinn Lewis,Water Bottle,Home & Garden,30.81,completed,8
+2025-11-16,ORD-0171,Peter Clark,Hoodie,Clothing,43.82,completed,14
+2025-11-17,ORD-0144,Sam Robinson,Protein Powder,Food & Drink,47.72,completed,15
+2025-11-18,ORD-0153,Eve Davis,Protein Powder,Food & Drink,52.36,completed,15
+2025-11-19,ORD-0162,Rachel Walker,Laptop Stand,Electronics,49.29,processing,15
+2025-11-20,ORD-0142,Olivia Harris,Running Shoes,Clothing,92.71,shipped,30
+2025-11-20,ORD-0145,Frank Miller,Desk Lamp,Home & Garden,33.94,completed,10
+2025-11-20,ORD-0164,Frank Miller,Coffee Blend,Food & Drink,25.36,completed,7
+2025-11-20,ORD-0167,Sam Robinson,Desk Lamp,Home & Garden,33.64,completed,10
+2025-11-22,ORD-0148,Olivia Harris,Yoga Mat,Home & Garden,38.84,completed,12
+2025-11-22,ORD-0160,Rachel Walker,Running Shoes,Clothing,87.84,processing,30
+2025-11-24,ORD-0147,Eve Davis,Coffee Blend,Food & Drink,24.49,shipped,7
+2025-11-24,ORD-0159,Grace Wilson,Running Shoes,Clothing,93.71,completed,30
+2025-11-25,ORD-0150,Jack Anderson,Desk Lamp,Home & Garden,34.09,cancelled,10
+2025-11-25,ORD-0158,Quinn Lewis,Laptop Stand,Electronics,47.94,completed,15
+2025-11-25,ORD-0163,Tara Young,Desk Lamp,Home & Garden,34.18,completed,10
+2025-11-26,ORD-0146,Leo Martinez,Protein Powder,Food & Drink,50.51,completed,15
+2025-11-26,ORD-0154,Bob Jones,Yoga Mat,Home & Garden,41.34,completed,12
+2025-11-28,ORD-0161,Olivia Harris,Phone Case,Electronics,19.73,cancelled,5
+2025-11-29,ORD-0152,Carol White,Protein Powder,Food & Drink,48.7,processing,15
+2025-11-30,ORD-0172,Eve Davis,Hoodie,Clothing,44.69,completed,14
+2025-12-02,ORD-0189,Quinn Lewis,Yoga Mat,Home & Garden,39.22,completed,12
+2025-12-02,ORD-0201,Sam Robinson,Yoga Mat,Home & Garden,41.52,completed,12
+2025-12-04,ORD-0188,Carol White,Wireless Earbuds,Electronics,81.02,processing,25
+2025-12-04,ORD-0204,Nathan Jackson,Desk Lamp,Home & Garden,34.26,completed,10
+2025-12-05,ORD-0175,Henry Taylor,Wireless Earbuds,Electronics,81.93,completed,25
+2025-12-05,ORD-0184,Leo Martinez,Water Bottle,Home & Garden,30.83,completed,8
+2025-12-06,ORD-0176,Karen Thompson,Laptop Stand,Electronics,48.74,shipped,15
+2025-12-06,ORD-0183,Alice Smith,Water Bottle,Home & Garden,30.44,shipped,8
+2025-12-09,ORD-0196,Nathan Jackson,Smart Watch,Electronics,237.89,completed,80
+2025-12-09,ORD-0203,Alice Smith,Yoga Mat,Home & Garden,38.51,completed,12
+2025-12-11,ORD-0205,Henry Taylor,Hoodie,Clothing,44.87,completed,14
+2025-12-12,ORD-0182,Eve Davis,Hoodie,Clothing,43.22,completed,14
+2025-12-14,ORD-0173,Bob Jones,Coffee Blend,Food & Drink,24.95,completed,7
+2025-12-14,ORD-0191,Grace Wilson,Protein Powder,Food & Drink,52.04,completed,15
+2025-12-14,ORD-0206,Carol White,Desk Lamp,Home & Garden,35.71,completed,10
+2025-12-15,ORD-0192,Carol White,Water Bottle,Home & Garden,29.24,completed,8
+2025-12-16,ORD-0180,Dave Brown,Protein Powder,Food & Drink,49.84,shipped,15
+2025-12-16,ORD-0208,Bob Jones,Water Bottle,Home & Garden,29.86,completed,8
+2025-12-17,ORD-0177,Rachel Walker,Water Bottle,Home & Garden,30.62,completed,8
+2025-12-17,ORD-0185,Grace Wilson,Hoodie,Clothing,47.01,completed,14
+2025-12-17,ORD-0200,Henry Taylor,Protein Powder,Food & Drink,49.13,completed,15
+2025-12-18,ORD-0197,Tara Young,Water Bottle,Home & Garden,29.93,completed,8
+2025-12-19,ORD-0202,Tara Young,Yoga Pants,Clothing,54.62,completed,18
+2025-12-20,ORD-0195,Alice Smith,Yoga Pants,Clothing,57.12,cancelled,18
+2025-12-21,ORD-0186,Frank Miller,Smart Watch,Electronics,228.15,completed,80
+2025-12-21,ORD-0194,Sam Robinson,Desk Lamp,Home & Garden,35.49,completed,10
+2025-12-22,ORD-0181,Peter Clark,Protein Powder,Food & Drink,47.87,shipped,15
+2025-12-25,ORD-0193,Olivia Harris,Wireless Earbuds,Electronics,79.6,completed,25
+2025-12-26,ORD-0178,Peter Clark,Laptop Stand,Electronics,51.03,completed,15
+2025-12-26,ORD-0179,Tara Young,Wireless Earbuds,Electronics,77.17,completed,25
+2025-12-26,ORD-0187,Carol White,Phone Case,Electronics,19,completed,5
+2025-12-27,ORD-0174,Eve Davis,Running Shoes,Clothing,90.37,processing,30
+2025-12-28,ORD-0198,Tara Young,Water Bottle,Home & Garden,30.99,completed,8
+2025-12-29,ORD-0199,Eve Davis,Smart Watch,Electronics,246.69,shipped,80
+2025-12-30,ORD-0190,Sam Robinson,Hoodie,Clothing,43.42,completed,14
+2025-12-30,ORD-0207,Leo Martinez,Water Bottle,Home & Garden,29.81,completed,8
+2026-01-02,ORD-0221,Bob Jones,Running Shoes,Clothing,86.76,completed,30
+2026-01-02,ORD-0236,Olivia Harris,Hoodie,Clothing,44.79,completed,14
+2026-01-03,ORD-0215,Carol White,Protein Powder,Food & Drink,48.31,shipped,15
+2026-01-03,ORD-0223,Eve Davis,Wireless Earbuds,Electronics,80.09,cancelled,25
+2026-01-04,ORD-0229,Quinn Lewis,Protein Powder,Food & Drink,52.01,processing,15
+2026-01-05,ORD-0226,Maria Garcia,Running Shoes,Clothing,91.39,completed,30
+2026-01-06,ORD-0212,Quinn Lewis,Phone Case,Electronics,20.76,completed,5
+2026-01-08,ORD-0241,Grace Wilson,Protein Powder,Food & Drink,48.68,completed,15
+2026-01-09,ORD-0213,Rachel Walker,Yoga Pants,Clothing,57.63,shipped,18
+2026-01-09,ORD-0235,Grace Wilson,Yoga Mat,Home & Garden,41.68,completed,12
+2026-01-10,ORD-0216,Sam Robinson,Protein Powder,Food & Drink,50.73,completed,15
+2026-01-11,ORD-0225,Carol White,Water Bottle,Home & Garden,28.94,completed,8
+2026-01-11,ORD-0238,Dave Brown,Running Shoes,Clothing,92.56,completed,30
+2026-01-12,ORD-0222,Carol White,Phone Case,Electronics,19.94,shipped,5
+2026-01-13,ORD-0209,Nathan Jackson,Coffee Blend,Food & Drink,25.57,completed,7
+2026-01-13,ORD-0239,Nathan Jackson,Protein Powder,Food & Drink,51.63,completed,15
+2026-01-14,ORD-0210,Carol White,Wireless Earbuds,Electronics,83.75,completed,25
+2026-01-14,ORD-0228,Karen Thompson,Yoga Pants,Clothing,53.7,cancelled,18
+2026-01-17,ORD-0224,Isabel Moore,Yoga Pants,Clothing,55.63,completed,18
+2026-01-18,ORD-0237,Jack Anderson,Yoga Mat,Home & Garden,40.71,completed,12
+2026-01-19,ORD-0230,Jack Anderson,Yoga Mat,Home & Garden,39.25,processing,12
+2026-01-19,ORD-0234,Frank Miller,Phone Case,Electronics,20.18,completed,5
+2026-01-20,ORD-0214,Peter Clark,Desk Lamp,Home & Garden,34.8,processing,10
+2026-01-22,ORD-0218,Rachel Walker,Smart Watch,Electronics,228.91,completed,80
+2026-01-23,ORD-0219,Frank Miller,Desk Lamp,Home & Garden,35.19,completed,10
+2026-01-23,ORD-0227,Maria Garcia,Yoga Mat,Home & Garden,41.76,shipped,12
+2026-01-24,ORD-0232,Alice Smith,Coffee Blend,Food & Drink,23.78,completed,7
+2026-01-25,ORD-0211,Peter Clark,Desk Lamp,Home & Garden,33.27,shipped,10
+2026-01-27,ORD-0217,Isabel Moore,Smart Watch,Electronics,249.82,completed,80
+2026-01-27,ORD-0233,Carol White,Desk Lamp,Home & Garden,35.82,completed,10
+2026-01-30,ORD-0220,Quinn Lewis,Water Bottle,Home & Garden,29.43,completed,8
+2026-01-30,ORD-0231,Frank Miller,Yoga Mat,Home & Garden,41.89,completed,12
+2026-01-30,ORD-0240,Alice Smith,Smart Watch,Electronics,239.88,completed,80
+2026-02-01,ORD-0258,Henry Taylor,Protein Powder,Food & Drink,50.02,completed,15
+2026-02-01,ORD-0269,Tara Young,Hoodie,Clothing,45.24,completed,14
+2026-02-01,ORD-0270,Jack Anderson,Yoga Pants,Clothing,52.54,completed,18
+2026-02-01,ORD-0271,Alice Smith,Hoodie,Clothing,47,completed,14
+2026-02-03,ORD-0260,Peter Clark,Wireless Earbuds,Electronics,80.18,shipped,25
+2026-02-03,ORD-0274,Grace Wilson,Water Bottle,Home & Garden,31.29,completed,8
+2026-02-04,ORD-0259,Tara Young,Coffee Blend,Food & Drink,24.19,cancelled,7
+2026-02-05,ORD-0261,Isabel Moore,Running Shoes,Clothing,88.45,processing,30
+2026-02-07,ORD-0251,Bob Jones,Wireless Earbuds,Electronics,76.5,completed,25
+2026-02-07,ORD-0275,Nathan Jackson,Laptop Stand,Electronics,51.49,cancelled,15
+2026-02-08,ORD-0242,Maria Garcia,Laptop Stand,Electronics,49.26,shipped,15
+2026-02-08,ORD-0243,Nathan Jackson,Coffee Blend,Food & Drink,23.81,shipped,7
+2026-02-08,ORD-0263,Quinn Lewis,Running Shoes,Clothing,88.08,completed,30
+2026-02-11,ORD-0244,Frank Miller,Water Bottle,Home & Garden,30.44,shipped,8
+2026-02-12,ORD-0245,Quinn Lewis,Protein Powder,Food & Drink,50.38,completed,15
+2026-02-12,ORD-0262,Peter Clark,Yoga Pants,Clothing,53.93,completed,18
+2026-02-13,ORD-0248,Nathan Jackson,Laptop Stand,Electronics,48.4,shipped,15
+2026-02-15,ORD-0247,Henry Taylor,Water Bottle,Home & Garden,30.75,completed,8
+2026-02-16,ORD-0255,Olivia Harris,Laptop Stand,Electronics,48.87,completed,15
+2026-02-18,ORD-0250,Olivia Harris,Wireless Earbuds,Electronics,81.73,processing,25
+2026-02-20,ORD-0265,Rachel Walker,Yoga Mat,Home & Garden,41.58,completed,12
+2026-02-20,ORD-0267,Rachel Walker,Desk Lamp,Home & Garden,34.89,completed,10
+2026-02-20,ORD-0276,Tara Young,Protein Powder,Food & Drink,48.66,shipped,15
+2026-02-22,ORD-0253,Jack Anderson,Hoodie,Clothing,43.39,completed,14
+2026-02-22,ORD-0264,Maria Garcia,Protein Powder,Food & Drink,47.57,completed,15
+2026-02-23,ORD-0246,Karen Thompson,Water Bottle,Home & Garden,29.58,completed,8
+2026-02-23,ORD-0257,Frank Miller,Smart Watch,Electronics,235.34,completed,80
+2026-02-24,ORD-0249,Peter Clark,Running Shoes,Clothing,87.39,completed,30
+2026-02-24,ORD-0252,Nathan Jackson,Hoodie,Clothing,46.18,completed,14
+2026-02-24,ORD-0254,Sam Robinson,Running Shoes,Clothing,92.76,cancelled,30
+2026-02-24,ORD-0256,Bob Jones,Phone Case,Electronics,20.26,shipped,5
+2026-02-26,ORD-0268,Eve Davis,Running Shoes,Clothing,89.73,completed,30
+2026-02-27,ORD-0273,Jack Anderson,Laptop Stand,Electronics,48.75,processing,15
+2026-02-28,ORD-0266,Henry Taylor,Water Bottle,Home & Garden,30.82,completed,8
+2026-02-28,ORD-0272,Eve Davis,Protein Powder,Food & Drink,48.75,completed,15
+2026-03-01,ORD-0282,Alice Smith,Yoga Mat,Home & Garden,38.95,completed,12
+2026-03-01,ORD-0290,Leo Martinez,Wireless Earbuds,Electronics,81.9,completed,25
+2026-03-01,ORD-0310,Jack Anderson,Coffee Blend,Food & Drink,24.04,completed,7
+2026-03-02,ORD-0278,Tara Young,Phone Case,Electronics,20.14,completed,5
+2026-03-03,ORD-0306,Frank Miller,Yoga Mat,Home & Garden,39.23,completed,12
+2026-03-04,ORD-0299,Bob Jones,Hoodie,Clothing,44.29,completed,14
+2026-03-05,ORD-0297,Leo Martinez,Water Bottle,Home & Garden,28.75,cancelled,8
+2026-03-06,ORD-0300,Isabel Moore,Yoga Mat,Home & Garden,41.09,processing,12
+2026-03-08,ORD-0305,Grace Wilson,Smart Watch,Electronics,247.55,processing,80
+2026-03-09,ORD-0277,Carol White,Laptop Stand,Electronics,47.96,cancelled,15
+2026-03-09,ORD-0289,Karen Thompson,Coffee Blend,Food & Drink,24.96,completed,7
+2026-03-09,ORD-0313,Maria Garcia,Running Shoes,Clothing,90.56,completed,30
+2026-03-10,ORD-0281,Dave Brown,Desk Lamp,Home & Garden,34.22,completed,10
+2026-03-10,ORD-0286,Grace Wilson,Coffee Blend,Food & Drink,25.44,completed,7
+2026-03-10,ORD-0288,Karen Thompson,Coffee Blend,Food & Drink,25.58,completed,7
+2026-03-11,ORD-0291,Quinn Lewis,Phone Case,Electronics,20.13,completed,5
+2026-03-12,ORD-0287,Alice Smith,Yoga Pants,Clothing,56.07,completed,18
+2026-03-12,ORD-0296,Karen Thompson,Water Bottle,Home & Garden,29.3,shipped,8
+2026-03-12,ORD-0302,Tara Young,Hoodie,Clothing,45.2,shipped,14
+2026-03-13,ORD-0292,Rachel Walker,Phone Case,Electronics,20.96,completed,5
+2026-03-15,ORD-0283,Alice Smith,Yoga Pants,Clothing,53.18,cancelled,18
+2026-03-16,ORD-0294,Dave Brown,Smart Watch,Electronics,238.84,completed,80
+2026-03-16,ORD-0301,Nathan Jackson,Laptop Stand,Electronics,50.93,completed,15
+2026-03-16,ORD-0303,Isabel Moore,Running Shoes,Clothing,93.18,processing,30
+2026-03-20,ORD-0285,Leo Martinez,Yoga Mat,Home & Garden,41.27,completed,12
+2026-03-20,ORD-0309,Olivia Harris,Running Shoes,Clothing,88.83,completed,30
+2026-03-20,ORD-0312,Carol White,Laptop Stand,Electronics,49.62,completed,15
+2026-03-25,ORD-0295,Tara Young,Hoodie,Clothing,44.24,shipped,14
+2026-03-25,ORD-0304,Henry Taylor,Coffee Blend,Food & Drink,25.95,completed,7
+2026-03-25,ORD-0307,Nathan Jackson,Protein Powder,Food & Drink,51.44,completed,15
+2026-03-25,ORD-0311,Eve Davis,Yoga Mat,Home & Garden,38.76,cancelled,12
+2026-03-27,ORD-0280,Tara Young,Wireless Earbuds,Electronics,78.71,cancelled,25
+2026-03-28,ORD-0284,Karen Thompson,Protein Powder,Food & Drink,49.03,completed,15
+2026-03-29,ORD-0279,Leo Martinez,Yoga Pants,Clothing,55.79,completed,18
+2026-03-29,ORD-0293,Karen Thompson,Yoga Pants,Clothing,55.29,completed,18
+2026-03-30,ORD-0298,Sam Robinson,Yoga Mat,Home & Garden,38.42,completed,12
+2026-03-31,ORD-0308,Peter Clark,Hoodie,Clothing,44.73,completed,14
+2026-04-01,ORD-0333,Grace Wilson,Protein Powder,Food & Drink,50.97,cancelled,15
+2026-04-01,ORD-0340,Dave Brown,Laptop Stand,Electronics,48.52,completed,15
+2026-04-02,ORD-0326,Peter Clark,Water Bottle,Home & Garden,28.59,completed,8
+2026-04-03,ORD-0318,Eve Davis,Running Shoes,Clothing,88.8,completed,30
+2026-04-03,ORD-0324,Quinn Lewis,Desk Lamp,Home & Garden,35.55,completed,10
+2026-04-03,ORD-0336,Karen Thompson,Yoga Mat,Home & Garden,39.22,completed,12
+2026-04-04,ORD-0331,Olivia Harris,Coffee Blend,Food & Drink,25.83,completed,7
+2026-04-04,ORD-0335,Karen Thompson,Water Bottle,Home & Garden,28.53,shipped,8
+2026-04-05,ORD-0322,Grace Wilson,Laptop Stand,Electronics,51.98,cancelled,15
+2026-04-05,ORD-0343,Quinn Lewis,Smart Watch,Electronics,248.56,completed,80
+2026-04-06,ORD-0327,Carol White,Smart Watch,Electronics,246.8,completed,80
+2026-04-06,ORD-0346,Karen Thompson,Yoga Mat,Home & Garden,41.57,completed,12
+2026-04-07,ORD-0328,Leo Martinez,Running Shoes,Clothing,86.88,shipped,30
+2026-04-08,ORD-0338,Quinn Lewis,Coffee Blend,Food & Drink,25.65,completed,7
+2026-04-08,ORD-0342,Nathan Jackson,Water Bottle,Home & Garden,30.64,completed,8
+2026-04-10,ORD-0339,Frank Miller,Phone Case,Electronics,20.29,shipped,5
+2026-04-11,ORD-0345,Quinn Lewis,Running Shoes,Clothing,88.69,completed,30
+2026-04-12,ORD-0348,Maria Garcia,Coffee Blend,Food & Drink,24.81,completed,7
+2026-04-12,ORD-0352,Henry Taylor,Water Bottle,Home & Garden,31.48,cancelled,8
+2026-04-13,ORD-0314,Henry Taylor,Water Bottle,Home & Garden,29.66,completed,8
+2026-04-14,ORD-0320,Peter Clark,Laptop Stand,Electronics,47.88,completed,15
+2026-04-14,ORD-0332,Eve Davis,Wireless Earbuds,Electronics,79.96,cancelled,25
+2026-04-15,ORD-0317,Sam Robinson,Yoga Pants,Clothing,53.24,completed,18
+2026-04-16,ORD-0323,Jack Anderson,Desk Lamp,Home & Garden,33.47,cancelled,10
+2026-04-16,ORD-0325,Sam Robinson,Desk Lamp,Home & Garden,35.59,completed,10
+2026-04-16,ORD-0330,Leo Martinez,Running Shoes,Clothing,92.68,shipped,30
+2026-04-16,ORD-0337,Rachel Walker,Wireless Earbuds,Electronics,76.03,completed,25
+2026-04-16,ORD-0350,Grace Wilson,Smart Watch,Electronics,244.44,completed,80
+2026-04-16,ORD-0351,Carol White,Wireless Earbuds,Electronics,76.37,completed,25
+2026-04-18,ORD-0319,Isabel Moore,Running Shoes,Clothing,93.69,completed,30
+2026-04-19,ORD-0344,Jack Anderson,Laptop Stand,Electronics,51.93,completed,15
+2026-04-20,ORD-0329,Bob Jones,Laptop Stand,Electronics,48.72,completed,15
+2026-04-23,ORD-0321,Karen Thompson,Running Shoes,Clothing,92.54,completed,30
+2026-04-24,ORD-0315,Alice Smith,Water Bottle,Home & Garden,30.52,shipped,8
+2026-04-26,ORD-0334,Bob Jones,Laptop Stand,Electronics,49.88,shipped,15
+2026-04-28,ORD-0347,Olivia Harris,Yoga Mat,Home & Garden,38.71,shipped,12
+2026-04-29,ORD-0341,Bob Jones,Running Shoes,Clothing,86.77,completed,30
+2026-04-29,ORD-0353,Peter Clark,Wireless Earbuds,Electronics,77.27,completed,25
+2026-04-30,ORD-0316,Eve Davis,Yoga Mat,Home & Garden,39.56,completed,12
+2026-04-30,ORD-0349,Peter Clark,Protein Powder,Food & Drink,48.1,completed,15
+2026-05-01,ORD-0371,Dave Brown,Protein Powder,Food & Drink,51.82,cancelled,15
+2026-05-02,ORD-0364,Olivia Harris,Desk Lamp,Home & Garden,34.57,completed,10
+2026-05-02,ORD-0374,Bob Jones,Water Bottle,Home & Garden,30.95,completed,8
+2026-05-04,ORD-0370,Nathan Jackson,Hoodie,Clothing,47.02,completed,14
+2026-05-05,ORD-0363,Jack Anderson,Running Shoes,Clothing,86.27,cancelled,30
+2026-05-05,ORD-0372,Maria Garcia,Wireless Earbuds,Electronics,83.08,completed,25
+2026-05-07,ORD-0365,Karen Thompson,Desk Lamp,Home & Garden,35.06,cancelled,10
+2026-05-10,ORD-0360,Carol White,Yoga Pants,Clothing,53.6,completed,18
+2026-05-10,ORD-0375,Jack Anderson,Hoodie,Clothing,47.09,completed,14
+2026-05-10,ORD-0376,Karen Thompson,Water Bottle,Home & Garden,31.37,shipped,8
+2026-05-12,ORD-0369,Jack Anderson,Running Shoes,Clothing,88.88,completed,30
+2026-05-15,ORD-0377,Maria Garcia,Phone Case,Electronics,19.68,cancelled,5
+2026-05-16,ORD-0367,Leo Martinez,Yoga Mat,Home & Garden,41.35,completed,12
+2026-05-19,ORD-0373,Olivia Harris,Smart Watch,Electronics,251.98,shipped,80
+2026-05-20,ORD-0355,Eve Davis,Yoga Pants,Clothing,52.97,processing,18
+2026-05-21,ORD-0357,Isabel Moore,Protein Powder,Food & Drink,50.58,shipped,15
+2026-05-22,ORD-0356,Olivia Harris,Wireless Earbuds,Electronics,80.83,shipped,25
+2026-05-24,ORD-0359,Karen Thompson,Smart Watch,Electronics,247.64,completed,80
+2026-05-24,ORD-0362,Eve Davis,Coffee Blend,Food & Drink,25.48,completed,7
+2026-05-25,ORD-0368,Jack Anderson,Protein Powder,Food & Drink,48.97,shipped,15
+2026-05-27,ORD-0358,Leo Martinez,Phone Case,Electronics,20.13,completed,5
+2026-05-31,ORD-0354,Isabel Moore,Yoga Mat,Home & Garden,39.73,completed,12
+2026-05-31,ORD-0361,Nathan Jackson,Hoodie,Clothing,46.03,completed,14
+2026-05-31,ORD-0366,Alice Smith,Hoodie,Clothing,43.4,completed,14
