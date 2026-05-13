@@ -1,6 +1,6 @@
 ﻿# Syrk-lytical
 
-Business analytics for any company. Import a CSV export from your existing system and instantly see revenue trends, sales breakdowns, top products, and customer data ï¿½ all in your browser with no server, no account, and no data leaving your machine.
+Business analytics for any company. Import a CSV export from your existing system and instantly see revenue trends, sales breakdowns, top products, and customer data -- all in your browser with no server, no account, and no data leaving your machine.
 
 ---
 
@@ -53,7 +53,7 @@ date,order_id,customer,product,category,amount,status,cost
 | `status`   | No       | Order status                          | completed, shipped, processing, etc  |
 | `cost`     | No       | Cost of goods / expense amount        | Same as amount                       |
 
-Column names do not have to match exactly ï¿½ the importer auto-detects common variations (e.g. `Total`, `Sale Amount`, `Invoice Date`, `Transaction Date`). You can manually remap any column during the import step.
+Column names do not have to match exactly -- the importer auto-detects common variations (e.g. `Total`, `Sale Amount`, `Invoice Date`, `Transaction Date`). You can manually remap any column during the import step.
 
 ---
 
